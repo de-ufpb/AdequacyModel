@@ -1,3 +1,7 @@
+**Desenvolvido por**: Pedro Rafael D. Marinho </br>
+**E-mail**: pedro.rafael.marinho@gmail.com
+
+
 # AdequacyModel: Adequacy of Probabilistic Models and General Purpose Optimization
 
 
