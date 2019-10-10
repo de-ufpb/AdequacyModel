@@ -1,4 +1,4 @@
-**Desenvolvido por**: Pedro Rafael D. Marinho </br>
+**Developed by**: Pedro Rafael D. Marinho </br>
 **E-mail**: pedro.rafael.marinho@gmail.com
 
 
