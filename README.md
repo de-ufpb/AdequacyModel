@@ -1,7 +1,7 @@
 **Developed by**: Pedro Rafael D. Marinho </br>
 **E-mail**: pedro.rafael.marinho@gmail.com </br>
 **GitHub**: https://github.com/prdm0/AdequacyModel
-
+**See package website**: https://prdm0.github.io/AdequacyModel/.
 
 # AdequacyModel: Adequacy of Probabilistic Models and General Purpose Optimization
 
